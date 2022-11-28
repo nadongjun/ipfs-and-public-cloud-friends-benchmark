@@ -1,0 +1,16 @@
+{
+  "name": "ipfs-and-public-cloud-friends-benchmark",
+  "version": "1.0.0",
+  "description": "## dataset 64KB 128KB , 256KB , 512KB, 1024KB, 2048KB",
+  "main": "benchmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs-core": "^0.5.4",
+    "ipfs-http-client": "^59.0.0"
+  } 
+}
